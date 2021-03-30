@@ -1,0 +1,14 @@
+﻿I'm sorry, but errors were detected in your script. Please correct the
+errors listed below, and try again.
+
+
+File "game/script.rpy", line 366: expected statement.
+    Caramelo: "Graças a Scoby-Doo, a Lucimel está bem!"
+            ^
+
+File "game/script.rpy", line 368: expected statement.
+    Caramelo, Lucimel e Jubileu gritam: "SIM."
+            ^
+
+Ren'Py Version: Ren'Py 7.4.3.1385
+Thu Mar 25 23:19:58 2021
